@@ -23,6 +23,6 @@ No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull
 
 ## About the domain name
 
-Couldn't let a gem like this get snatched up. So lucky this was still available!!!
+Couldn't let a gem like this get snatched up by someone else. So lucky this was still available!!!
 
 ![image](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/540c186f-81cc-40e3-a4b3-dd38fad85950)
