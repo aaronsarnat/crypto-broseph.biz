@@ -2,7 +2,7 @@
 
 ![image](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/1746cdeb-981f-43ec-bd32-cdb7392ca85b)
 
-This is a [free and open](https://en.wikipedia.org/wiki/Unlicense), [GitHub Pages](https://pages.github.com/)-[hosted](https://en.wikipedia.org/wiki/Web_hosting_service), [Jekyll-powered](https://jekyllrb.com/), [static](https://en.wikipedia.org/wiki/Static_site_generator), [public](https://en.wikipedia.org/wiki/Public) [website](https://en.wikipedia.org/wiki/Website) that the `crypto-broseph.biz` [domain](https://en.wikipedia.org/wiki/Domain_name) [points to](https://www.cloudflare.com/).
+[Crypto-Broseph.BIZ](https://crypto-broseph.biz) is a [free and open](https://en.wikipedia.org/wiki/Unlicense), [GitHub Pages](https://pages.github.com/)-[hosted](https://en.wikipedia.org/wiki/Web_hosting_service), [Jekyll-powered](https://jekyllrb.com/), [static](https://en.wikipedia.org/wiki/Static_site_generator), [public](https://en.wikipedia.org/wiki/Public) [website](https://en.wikipedia.org/wiki/Website) that the `crypto-broseph.biz` [domain](https://en.wikipedia.org/wiki/Domain_name) [points to](https://www.cloudflare.com/).
 
 Everything that shows up on [Crypto-Broseph.BIZ](https://crypto-broseph.biz) is driven directly by [this](https://github.com/aaronsarnat/crypto-broseph.biz/) [repository](https://en.wikipedia.org/wiki/Repository_(version_control)).
 
