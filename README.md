@@ -25,4 +25,4 @@ No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull
 
 Couldn't let a gem like this get snatched up. So lucky this was still available!!!
 
-![image](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/dc4a5ed7-f4b8-48fb-a885-c492e7692ec6)
+![image](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/1c359706-e0ba-459d-9324-c14f7d3b2a95)
