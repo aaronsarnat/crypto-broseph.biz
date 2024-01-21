@@ -10,7 +10,9 @@ Everything that shows up on [Crypto-Broseph.BIZ](https://crypto-broseph.biz) is 
 
 ## Contributing
 
-No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that shows up on the public site. Drawing the line at malicious stuff. Don't be nasty, don't be evil etc. Otherwise, anything goes on this shit. Have fun. :sweat_smile:
+Start by editing [`index.html`](https://github.com/aaronsarnat/crypto-broseph.biz/blob/main/index.html) which is what `https://crypto-broseph.biz` currently resolves to.
+
+No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that immediately gets deployed to the public site. We're drawing the line at malicious stuff. Don't be nasty, don't be evil etc. Otherwise, anything goes on this shit. Have fun. :sweat_smile:
 
 - [Crypto-Broseph.BIZ](https://crypto-broseph.biz) should remain absolute garbage at all times.
 - “Programmer Art” heavily encouraged!
