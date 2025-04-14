@@ -2,6 +2,8 @@
 
 [![image](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/1746cdeb-981f-43ec-bd32-cdb7392ca85b)](https://crypto-broseph.biz)
 
+## Overview
+
 [Crypto-Broseph.BIZ](https://crypto-broseph.biz) is a [free and open](https://en.wikipedia.org/wiki/Unlicense), [GitHub Pages](https://pages.github.com/)-[hosted](https://en.wikipedia.org/wiki/Web_hosting_service), [Jekyll-powered](https://jekyllrb.com/), [static](https://en.wikipedia.org/wiki/Static_site_generator), [public](https://en.wikipedia.org/wiki/Public) [website](https://en.wikipedia.org/wiki/Website) that the `crypto-broseph.biz` [domain](https://en.wikipedia.org/wiki/Domain_name) [points to](https://www.cloudflare.com/).
 
 Everything that shows up on [Crypto-Broseph.BIZ](https://crypto-broseph.biz) is driven directly by [this](https://github.com/aaronsarnat/crypto-broseph.biz/) [repository](https://en.wikipedia.org/wiki/Repository_(version_control)).
@@ -24,9 +26,9 @@ No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull
 4. Memes or whatever
 5. Random shit
 6. Etc.
-7. Just use good judgement and keep it fun and unserious. We're drawing the line at actual malware, hate speach, paid advertising (as opposed to nostalgic, fake, or ironic ads as static media assets not connected to any ad services), actual propaganda, or anything that might actually get me canceled or sued. Don't be nasty, don't be evil, don't be stupid etc. Otherwise, anything goes on this shit. Have a good time. :sweat_smile:
-
-[Do or do not](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/34512591-7df4-4af6-8ecc-e2478312524e) whatever you will or will not with [Crypto-Broseph.BIZ](https://crypto-broseph.biz). This is all bullshit obviously so IDGAF 😂
+7. Remember to keep it fun and unserious.
+8. [Do or do not](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/34512591-7df4-4af6-8ecc-e2478312524e) whatever you will or will not with [Crypto-Broseph.BIZ](https://crypto-broseph.biz). This is all bullshit obviously so IDGAF 😂
+    - We're drawing the line at actual malware, hate speach, paid advertising (as opposed to ironic ads not connected to any services), actual propaganda, or anything that might actually get me canceled or sued. :sweat_smile: Don't be nasty, don't be evil, etc. Otherwise, anything goes on this shit. :sweat_smile:
 
 ## About the domain name
 
