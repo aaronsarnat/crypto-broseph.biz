@@ -10,9 +10,11 @@ Everything that shows up on [Crypto-Broseph.BIZ](https://crypto-broseph.biz) is 
 
 ## Contributing
 
-Start by editing [`index.html`](https://github.com/aaronsarnat/crypto-broseph.biz/edit/main/index.html) which is what [`https://crypto-broseph.biz`](https://crypto-broseph.biz) currently resolves to.
+Get in touch and I'll add you as a contributor to the repo.
 
-No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that immediately gets deployed to the public site. We're drawing the line at malicious stuff. Don't be nasty, don't be evil etc. Otherwise, anything goes on this shit. Have fun. :sweat_smile:
+Not sure where to start? Open up [`index.html`](https://github.com/aaronsarnat/crypto-broseph.biz/edit/main/index.html) which is what [`https://crypto-broseph.biz`](https://crypto-broseph.biz) currently resolves to.
+
+No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that immediately gets deployed to the public site. Just use good judgement. We're drawing the line at actual malware, hate speach, paid advertizing (as opposed to nostalgic, fake, or ironic ads as static media assets not connected to any services), actual propaganda, or anything that might get me canceled or sued. Don't be nasty, don't be evil, don't be stupid etc. Otherwise, anything goes on this shit. Have fun. :sweat_smile:
 
 - [Crypto-Broseph.BIZ](https://crypto-broseph.biz) should remain absolute garbage at all times.
 - “Programmer Art” heavily encouraged!
