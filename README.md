@@ -28,7 +28,7 @@ No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull
 6. Etc.
 7. [Do or do not](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/34512591-7df4-4af6-8ecc-e2478312524e) whatever you will or will not with [Crypto-Broseph.BIZ](https://crypto-broseph.biz). This is all bullshit obviously so IDGAF 😂
    - Remember to keep it fun and unserious.
-   - We're drawing the line at *actual* malware, hate speach, paid advertising (as opposed to ironic ads not connected to any services), *actual* propaganda, or anything that might *actually* get me canceled or sued. :sweat_smile: Don't be nasty, don't be evil, etc. Otherwise, anything goes on this shit. :sweat_smile:
+   - Obviously, we're drawing the line at *actual* malware, hate speach, paid advertising (as opposed to ironic ads not connected to any services), *actual* propaganda, or anything that might *actually* get me canceled or sued. :sweat_smile: Don't be nasty, don't be evil, etc. Otherwise, anything goes on this shit. Have fun.
 
 ## About the domain name
 
