@@ -14,12 +14,17 @@ Get in touch and I'll add you as a contributor to the repo.
 
 Not sure where to start? Open up [`index.html`](https://github.com/aaronsarnat/crypto-broseph.biz/edit/main/index.html) which is what [`https://crypto-broseph.biz`](https://crypto-broseph.biz) currently resolves to.
 
-No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that immediately gets deployed to the public site. Just use good judgement. We're drawing the line at actual malware, hate speach, paid advertizing (as opposed to nostalgic, fake, or ironic ads as static media assets not connected to any services), actual propaganda, or anything that might get me canceled or sued. Don't be nasty, don't be evil, don't be stupid etc. Otherwise, anything goes on this shit. Have fun. :sweat_smile:
+No [PR reviews](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)… [No rules*](https://en.wikipedia.org/wiki/Anarchy)… You don't have to ask anyone's permission to make a direct change that immediately gets deployed to the public site.
 
-- [Crypto-Broseph.BIZ](https://crypto-broseph.biz) should remain absolute garbage at all times.
-- “Programmer Art” heavily encouraged!
-- MYSPACE CODEZZ!!!! GEOCITIES!!!
-- Memes or whatever
+*Except these rules:
+
+1. [Crypto-Broseph.BIZ](https://crypto-broseph.biz) should remain absolute garbage at all times.
+2. “Programmer Art” heavily encouraged!
+3. MYSPACE CODEZZ!!!! GEOCITIES!!!
+4. Memes or whatever
+5. Random shit
+6. Etc.
+7. Just use good judgement and keep it fun and unserious. We're drawing the line at actual malware, hate speach, paid advertising (as opposed to nostalgic, fake, or ironic ads as static media assets not connected to any ad services), actual propaganda, or anything that might actually get me canceled or sued. Don't be nasty, don't be evil, don't be stupid etc. Otherwise, anything goes on this shit. Have a good time. :sweat_smile:
 
 [Do or do not](https://github.com/aaronsarnat/crypto-broseph.biz/assets/8367927/34512591-7df4-4af6-8ecc-e2478312524e) whatever you will or will not with [Crypto-Broseph.BIZ](https://crypto-broseph.biz). This is all bullshit obviously so IDGAF 😂
 
