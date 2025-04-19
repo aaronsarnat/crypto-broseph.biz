@@ -13,14 +13,51 @@
         from { transform: rotate(0deg); }
         to { transform: rotate(360deg); }
       }
-
       h1 {
         animation: spin 2s linear infinite;
       }
       iframe {
         animation: spin 4s ease-in-out 2;
       }
+      #doot_div {
+        background: black;
+      }
+      #doot_button {
+        background: none;
+        border: none;
+        cursor: pointer;
+      }
     </style>
+    <script>
+      function playGif() {
+          const t = document.querySelector("#doot_img");
+          const o = t.getAttribute("src").split("?")[0];
+          const e = o.replace(".png", ".gif") + "?" + (new Date).getTime();
+          t.src = e;
+      }
+      function playAudio() {
+        document.querySelector("#doot_audio").play();
+      }
+      function addDoot() {
+        const doot = document.createElement("p");
+        doot.textContent = "Doot!";
+        document.querySelector("#doots").appendChild(doot);
+        if(document.querySelector("#doots").children.length % 10 == 0) {
+          window.alert("Doot!");
+        }
+      }
+      function sayDoot() {
+        console.log("Doot!")
+        console.warn("Doot!")
+        console.error("Doot!")
+      }
+      function onDoot() {
+        playGif();
+        playAudio();
+        addDoot();
+        sayDoot();
+      }
+    </script>
   </head>
   <body>
     <br>
@@ -79,6 +116,11 @@
       <img src="https://lparchive.org/Kings-Quest-II/Update%2006/20-06-015.gif">
       <br>
       <img src="https://johnjohnston.info/blog/wp-content/uploads/2024/03/kidpix.gif">
+    </div>
+    <div id="doot_div">
+      <button id="doot_button" onclick="onDoot()"><img id="doot_img" src="https://skulltrumpet.com/jazzskull.png" alt="tumpet"><span class="play" aria-hidden="true"></span></button>
+      <audio id="doot_audio" preload="" autoplay="autoplay"><source src="https://skulltrumpet.com/tumpet.mp3" type="audio/mpeg"><source src="https://skulltrumpet.com/tumpet.ogg" type="audio/ogg"></audio>
+      <div id="doots"></div>
     </div>
     <div style="background: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJjdHowYTdha3U4NG1oMzhnZDJrYWYzN2E3bXViM215ejh3Y2I3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YU6nzoj2UsqWpvf8EE/giphy.gif); padding: 30px;
       <img src="https://i.imgur.com/9tIuPBH.png">
